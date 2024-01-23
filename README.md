@@ -1,4 +1,4 @@
-#Car Dealership Management System
+Car Dealership Management System
 
 This project implements a basic Car Dealership Management System where users can view available cars, register as customers, search for cars, and make car purchases. Salespeople have additional functionalities such as managing car inventory and viewing sales history.
 
